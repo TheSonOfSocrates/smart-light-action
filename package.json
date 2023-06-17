@@ -1,6 +1,9 @@
 {
   "name": "smarthome-local",
   "description": "Codelab for controlling devices through the Google Assistant",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": "12"
   },
