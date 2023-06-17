@@ -1,0 +1,24 @@
+{
+  "hosting": {
+    "headers": [
+      {
+        "source": "index.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=0"
+          }
+        ]
+      }
+    ]
+  },
+  "functions": {
+    "source": "."
+  },
+  "emulators": {
+    "functions": {
+      "port": 8080,
+      "host": "10.4.10.87"
+    }
+  }
+}

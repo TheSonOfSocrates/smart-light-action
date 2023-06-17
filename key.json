@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "java-martin-blind",
+  "private_key_id": "3838a133a8fb3beae2a20c7260aba21a84dfd34f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD2zT6vyhI6dGCj\n2iShsFMs0ZSU/JOU5vH4CpXC60GUNzOlHVFDWlJoekkb/ioshK/HzrcihkASer/3\nMs7CVXsPjrsUBZ5mrr0k6rOLT8KSfHlm7lAkWo2t6JReX6BeERZRjkl7riq43UH1\nRQNQdRu6FWqmKJ8mWHft3Bexqce+q5W0xyCNkwTtB/uPtpmE+o0FfW25eE+MQecS\nsudNoCu8NPZLm6rKJT/32i/O3ZvNDu9yclbIz7HyBDYi4H380tIZ4MXR4ZWtcLvp\nT+woojIPoNGCUYDlPCbADaBSvfzoJ0JF/WYodF9KESEFu9NW+BGXxnSVDThmIXBl\nYqeVj3JtAgMBAAECggEAFiroQwTc70gtt/nriWRbjC6E8H7hSKIXwMY+nmPgH453\nwpBoEKsntL+rGmsRYa9HVKSSGXVCgwZogK0dGiJwa7zPu+QnTqTKU2sLVmuDGAI7\nK04jf6hsil7WGMXxExHo1cl4ezXxG2qwNnYM7qieJXAwBJ2ocdrHZuN6c1hDGzKE\nF4SQIcWE2HGRr7bvVsJpOP+bhnJ03voY9prB7bXRPuFvx6OqluZsK08L7ujNhdrK\niob+JS4w+Pvzj0E+2v7ixDl3rykHbHbM6tegnHgKwEjeMDngpaAyA8YHi9EoZLlx\nj3glDRmi9Sd6RPUtgIcdNdMJcsxwjv8T0oUh7x08lwKBgQD9FpBrDnCoKIdjlHZK\nSROqeju73JPt/tmeK9eTIurwVJcf4fdewfKK2xjDYEJLkZhVkLvm3DWK2aEm7ZJ9\n0/25Zm4qCJkcUbNWjQm+dTVZPB/dMPKHjuLbgwKHbflrDH47SxTFleN/D9HttGWm\nPCdtT7J/rcUNdh7OXrjiFh6bgwKBgQD5pCo+JbatfEUufFgS+JddjriuOqfqw55B\n9NnIkURQW6Yopc/GwYyTPu3FrJGYs05mVT2YNaZNJAufR4kCx7XQ9eOkLJTsttGJ\nYpmSRArVjN8yaqKrr9tSJ5RV8AXQ/Oo6JivypeOGXav4er2jmrC7YIergCbccSrv\nBQjGo7mnTwKBgQCtQAgGsTDffDcKLPQ48AN9XQWNGXdOoXnZNAvzliCb+lwloCsV\ne9ELyuYNwNRBJN7SHCz04WPptAcEPfddGYSDqSHatl4Rq8AHjK7R6Sxm9KifY0Vz\nFJYpTGqryNXHuRqkfkYu5+d+8JZ1kVtQS7d1tevsSUkuaOC3xtHrOtci/wKBgQCa\ns54t9ycWqW0h2pKl5wG+S6Ss69KFTIZ1LywK++LOvYzhoad57xWTZirpFgEAFRXf\nmrFZ8t1E7rJ5GVaRr3s/rDFO2wXLD5wYPE8Y8iuYnPzv/F8kcA1FAxwMiXrBQQpR\n0LfpXd36tW/NwxpkGYeuBqrsn7T1ZPgLOR5wIqP5RwKBgDvZbwTJojdrjPLSxp8H\n8uXLlhPTQnEt1u8XezvSzww8uwqWi3wPJiiTHfFGhEKYeG1YMAEUJ5isvOxE/WNt\nQjMoU8XWyzh/O4osm/526ff0NcovYZJOCNKW3n4NAqrDWwgECC2eJYRSwm4vh6Ea\nlv0EC8gQQ7K2hcFp4BDvAcFg\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-java-martin-blind@java-martin-blind.iam.gserviceaccount.com",
+  "client_id": "103997486373260320724",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-java-martin-blind%40java-martin-blind.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
