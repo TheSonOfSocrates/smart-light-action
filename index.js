@@ -265,4 +265,5 @@ app.get('/requestsync', async function(request, response) {
 		response.status(500).send(`Error requesting sync: ${err}`)
 	}
 });
-app.listen(8080);
+
+app.listen(8889, () => console.log(`Server up and running on port 8889 !`));
